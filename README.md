@@ -6,7 +6,7 @@ Kelas : MI-2C <br>
 Prodi : D3 Manajemen Informatika <br>
 
 ## Hasil Praktikum 
-<br>
+#
 ### Built In Widget
 #### 1. Text Widget
 ![Screenshot Dashboard Oracle](img/textwidget.png)
